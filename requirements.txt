@@ -1,0 +1,7 @@
+tf-keras
+tensorflow
+torch
+transformers
+fastapi
+uvicorn[standard]
+typing
